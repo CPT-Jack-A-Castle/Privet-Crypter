@@ -8,7 +8,9 @@
 
 <div align="center">
   <h2>Authors</h2>
-    TigerMate 
+    TigerMate
+  <br/>
+  You can Contact for Privet Stub and Privet crypter for Cheap Rate
   
     
 </div>
