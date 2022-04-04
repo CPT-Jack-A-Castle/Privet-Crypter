@@ -8,14 +8,14 @@
 
 <div align="center">
   <h2>Authors</h2>
-    Ajajjajk - Aries52
-  <br/>
-    XaFF - XaFF
+    TigerMate 
+  
+    
 </div>
 
 <div align="center">
   <h2>Features</h2>
-  <img src="https://github.com/XaFF-XaFF/Cronos-Crypter/blob/master/img/Cronos.png"></img
+  <img src="https://github.com/TigerMates/Privet-Crypter/blob/main/Cronos.png"></img
 </div>
   
   AES256 and XOR encryption
